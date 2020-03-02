@@ -1,0 +1,19 @@
+{
+  "name": "2020-03-02-aula-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrinfreitas/2020-03-02-aula-HTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrinfreitas/2020-03-02-aula-HTML/issues"
+  },
+  "homepage": "https://github.com/pedrinfreitas/2020-03-02-aula-HTML#readme"
+}
